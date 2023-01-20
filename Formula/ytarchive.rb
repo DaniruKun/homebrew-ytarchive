@@ -3,7 +3,7 @@ class Ytarchive < Formula
   homepage "https://github.com/Kethsar/ytarchive"
   url "https://github.com/Kethsar/ytarchive/archive/refs/tags/latest.tar.gz"
   version "0.3.1"
-  sha256 "29931b22d8cb22ff6aefd2f4601816eb5c3664ec88518f9da432e3d460549923"
+  sha256 "f61ac9b3606476306c208dd87961a3ca846efa92eaad651fa0270293c13a54c2"
   license "MIT"
   head "https://github.com/Kethsar/ytarchive.git", branch: "master"
 
